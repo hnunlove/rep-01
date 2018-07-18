@@ -18,11 +18,11 @@ CARA INSTALL SAMA SEPERTI ALPHATjs LAINYA
 ---------------
 
 Thx to :
-@Alfadirk
-@Tim TCR
-@NadyaTJ
-@Googlex
-@EtotJs
+`@Alfadirk`
+`@Tim TCR`
+`@NadyaTJ`
+`@Googlex`
+`@EtotJs`
 DLL
 
 NB:GUNAKAN DENGAN BIJAK,, & TIDAK DI PERJUAL BELIKAN..!
