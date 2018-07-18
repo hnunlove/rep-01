@@ -9,9 +9,9 @@ const config = require('./config');
 const { Message, OpType, Location } = require('../curve-thrift/line_types');
 
 
-const myBott = ['u35a1aa2a15a9fa18452c6845312874f8','uc301fa8f0962f52b1f2d83dc251589cb'];//TARO MID LU DISINI
+const myBott = [''];//TARO MID LU DISINI
 
-const myBot = ['u35a1aa2a15a9fa18452c6845312874f8','uc301fa8f0962f52b1f2d83dc251589cb'];//TARO MID LU DISINI
+const myBot = [''];//TARO MID LU DISINI
 var vx = {};var midnornama = "";var pesane = "";var kickhim = "";var waitMsg = "no";//DO NOT CHANGE THIS
 
 function isAdminOrBot(param) {

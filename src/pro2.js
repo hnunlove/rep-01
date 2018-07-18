@@ -8,9 +8,9 @@ const rp = require('request-promise');
 const config = require('./config');
 const { Message, OpType, Location } = require('../curve-thrift/line_types');
 
-const myBott = ['uc301fa8f0962f52b1f2d83dc251589cb'];//TARO MID LU DISINI S
+const myBott = [''];//TARO MID LU DISINI S
 
-const myBot = ['uc301fa8f0962f52b1f2d83dc251589cb'];//TARO MID LU DISINI
+const myBot = [''];//TARO MID LU DISINI
 var vx = {};var midnornama = "";var pesane = "";var kickhim = "";var waitMsg = "no";//DO NOT CHANGE THIS
 
 function isAdminOrBot(param) {
@@ -373,7 +373,7 @@ class LINE extends LineAPI {
         if(txt == '#creator') {
            this._sendMessage(seq, 'My Creator');
            seq.contentType=13;
-           seq.contentMetadata = { mid: 'uc301fa8f0962f52b1f2d83dc251589cb' };
+           seq.contentMetadata = { mid: 'MIDMU' };
            this._client.sendMessage(1, seq);
         }
 
